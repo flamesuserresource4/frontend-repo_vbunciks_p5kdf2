@@ -2,7 +2,7 @@ import Hero from './components/Hero';
 import About from './components/About';
 import Programs from './components/Programs';
 import Contact from './components/Contact';
-import { Book, Home } from 'lucide-react';
+import { Book } from 'lucide-react';
 
 function Navbar() {
   return (
